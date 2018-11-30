@@ -1,0 +1,6 @@
+BZR merge-modified list format 1
+file_id: 1@a57b2b6b-0f04-0410-8fea-8d55c12acd6d::src%2Fsakura.c
+hash: 393999f4bd86ebf5a6ee06bf023aa90dcd7e424e
+
+file_id: 58@a57b2b6b-0f04-0410-8fea-8d55c12acd6d::INSTALL
+hash: 176eee53d58b647dd5cd48cd38c3799617909bd3
